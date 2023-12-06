@@ -1,0 +1,252 @@
+{
+    "basic_info": {
+      "description_header": "Hi!",
+      "description": "👋 I'm Kanwar Padda.A dynamic, motivated, bilingual Professional with the educational background and proven work ethic to deliver exceptional administrative and customer support, known for creating UI/UX & backend for applications, with the skillset to complete customer requirements, collect supplementary information/documentation and more to deliver the desired application. Out-of-the-box thinker who is comfortable working in teams or independently to ensure results consistently exceed goals. Exceptional academic qualifications, including Leadership qualities and multi-tasking, coordinating and guiding the teammates, achieving a certain goal in the given amount of time.",
+      "philosophy": "I'm a youthful, driven guy with proven talents and expertise who is dependable and confident.I enjoy problem solving and am fast to learn, with excellent communication skills and the ability to work effectively in a professional setting either alone or as part of a team.I'm committed to working in the IT field, which is a talent and subject that I adore. ",
+      "preference": "I’m looking for a Full Time Position in IT, preferably in the GTA(Grater Toronto Area), although I am open to work anywhere for the right opportunity.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "education": "Education",
+        "expertise": "Expertise",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Weather App",
+        "startDate": "2021",
+        "description": "A Android app made with Java that gets your current location and, show weather for now and make forecast weather for whole week.",
+        "images": [
+          "images/portfolio/weather/Weather.jpg"
+        ],
+        "url": "https://github.com/KanwarPadda/mobile_weather_app",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      },
+      {
+        "title": "Recipe Shear Website",
+        "startDate": "2021",
+        "description": "a web site made with Maven, spring that let you share recipes, search, let you make meal plan, make notes for future events",
+        "images": [
+          "images/portfolio/recipe/index.png"
+          
+        ],
+        "url": "https://github.com/KanwarPadda/Spring_recipe",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain-wordmark",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-apache-plain",
+            "name": "Maven"
+          }
+        ]
+      },
+      {
+        "title": "IOS Lottery App",
+        "startDate": "2022",
+        "description": "A IOS based app made with Swift that will predict winning numbers(Random Numbers) with hit of just 1 button",
+        "images": [
+          "images/portfolio/loto/index.jpg"
+          
+        ],
+        "url": "https://github.com/KanwarPadda/IOS_lottery_app",
+        "technologies": [
+          {
+            "class": "devicon-swift-plain",
+            "name": "SWIFT"
+          }
+        ]
+      },
+      {
+        "title": "The Barter classified",
+        "startDate": "2022",
+        "description": "Batter based system that lets you exchange Products and look up for services.",
+        "images": [
+          "images/portfolio/tbc/Capture.PNG"
+        ],
+        "url": "https://github.com/KanwarPadda/Barterclassified",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain-wordmark",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React.JS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.JS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "React-Bootstrap"
+          },
+          
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Fire Base"
+          }
+        ]
+      },
+      {
+        "title": "CRU (Coming Soon)",
+        "startDate": "2021",
+        "description": "A simple magic 8-ball style game where you ask Ja Rule his thoughts, and he shall answer. Created with React.JS and deployed using AWS Amplify.",
+        "images": [
+          "images/portfolio/cru/Capture.PNG"
+        
+        ],
+        "url": "https://github.com/KanwarPadda/CRU-Orignal",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React.JS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.JS"
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "company": "George Brown College",
+        "title": "Advance Diploma",
+        "description": "Currently on my Last semester where I will soon be tackling the Capstone project, Got Dean's Letter in 2ed Semester and 4th Semester ",
+        "years": "2020 - 2022",
+        "mainTech": [
+          "Computer Programmer and Analysis"
+        ],
+        "technologies": [
+          "Object-Oriented Programming",
+          "Web Development",
+          "Web Services",
+          "Programming and Software Testing",
+          "Agile Software Engineering Principles",
+          "Database Systems",
+          "CCNA",
+          "More to come..."
+        ]
+      },
+      {
+        "company": "Police DAV",
+        "title": "High School",
+        "description": "",
+        "years": "2017 - 2020",
+        "mainTech": [
+          "Applied Computing"
+        ],
+        "technologies": [
+          "Math",
+          "Chemistry",
+          "Physics",
+          "Physical Education"
+        ]
+      }
+    ],
+    "expertise": {
+      "icons": [
+        {
+          "title": "Full-Stack Web Development",
+          "description": "I have skills and experience to develop full-stack web applications and services in a variety of technologies. My knowledge area for full-stack apps include HTML/CSS/JS, Java (+ Spring Framework), NodeJS (+ Express), Serverless (+ AWS Lambda), PHP (+ Laravel/Symfony), React (+ Redux), and Ruby on Rails. I'm able to create and maintain APIs, web servers, and dockerised environments."
+        },
+        {
+          "title": "Database Systems",
+          "description": "I have a detailed level of understanding relational database management systems. I have experience with normalisation and a wide range of SQL languages, most notably MySQL/MariaDB, and NoSQL such as MongoDB and Redis. I also have the know-how to implement and use databases in software applications and RESTful APIs."
+        },
+        {
+          "title": "E-Commerce",
+          "description": "I have knowledge in business and have experience with developing an e-commerce site. The Business and Web module I undertook involved responsive web design through CSS frameworks, CMS such as Wordpress, and marketing include social media, email, and blogging."
+        },
+        {
+          "title": "Data Science",
+          "description": "I understand the difference between traditional and big data and big data strategies (aims, policies, plans, actions). I know how you're able to extract value (useful analysis) from large volumes of data from many data sources. I have experience with working with Apache Hadoop."
+        },
+        {
+          "title": "Project Management",
+          "description": "Through project management modules in education and working in an agile environment, I have experience with working with project planning. I'm able to work in Agile methodologies such as SCRUM with the inclusion of DevOps, Continuous Testing/Delivery, and Kanban Boards."
+        },
+        {
+          "title": "Networking",
+          "description": "From routing and switching to wide area networks, I understand networking theory and the application of networks. Various networking modules allowed me to learn from Cisco, and take part in CCNA backed exams."
+        }
+      ]
+    },
+    "experience": [
+      {
+        "company": "Bell Technical Solutions",
+        "title": "Field Service Technician",
+        "description": "",
+        "responsibilities" : [
+          "Install, remove, maintain, and repair aerial and underground",
+          "telephone and other telecommunication transmission lines",
+          "Troubleshoot complex telecommunications products and systems",
+          "using digital multimeter, smartphone and other professional equipment",
+          "Provide exceptional customer service for clients",
+          "Splice and repair various types and sizes of telephone and other telecommunication cables including optical fiber ",
+          "Observe and follow all company provided rules and policies",
+          "Inspect, monitor, test and adjust cable transmission and distribution systems "
+        ],
+        "years": "June-2022 - present",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "",
+          ""
+        ]
+      },
+      {
+        "company": "Paragon Security",
+        "title": "Security Officer / Shift Supervisor",
+        "description": "",
+        "responsibilities" : [
+          "Monitoring Fire Panel and Following fire safety plan",
+          "Following all client-provided health and safety guidelines at work",
+          "Being involved in with larger in-house projects to meet our customer's requirements",
+          "Monitored access control on site",
+          "Controlling site from control room",
+          "Patrolling for fire watch",
+          "Monitored Trespass property act"
+        ],
+        "years": "May-2020 - April-2022",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          ""
+        ]
+      }
+    ]
+}
+
